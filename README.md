@@ -1,2 +1,2 @@
 # MUSCL
-Mauritius Security Club - Free Cyber Security Presenations
+Mauritius Security Club - Free Cyber Security Presentations
